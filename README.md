@@ -1,6 +1,8 @@
 # MCU Fight Game
 
-Simple overview of use/purpose.
+_When I was first learning programming, I started with C++ and wanted to explore with encapsulation. The result is this game which uses classes, class members and functions, object instantiation, and using the iostream along with several other libraries._
+
+Fight evil with your favorite MCU superhero or try your luck against one of the heroes with a classic Villain! Pick your character and your opponent and see how the fight unfolds with attacks and healthbars for visual aid. Who can outlast who?! It's time to find out.
 
 ## Description
 
