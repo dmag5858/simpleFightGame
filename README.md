@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-*libraries imported locally:
+* libraries imported locally:
 - iostream
 - vector
 - iomanip
@@ -18,17 +18,18 @@ An in-depth paragraph about your project and overview of use.
 - string
 - windows
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Download and save the file onto your computer
+* Open your terminal by typing "cmd" in your Taskbar
+* Navigate to the directory where you saved the fightGame.cpp file
 ```
-code blocks for commands
+cd 'C:/Users/file/path/fightGame.cpp'
+```
+* Type the following command into your terminal
+```
+g++ -o fightGame fightGame.cpp
+./fightGame
 ```
 
 ## Help
