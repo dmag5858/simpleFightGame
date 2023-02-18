@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-_libraries imported locally:_
+_libraries imported automatically:_
 - iostream
 - vector
 - iomanip
